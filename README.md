@@ -12,5 +12,5 @@ This repository is a part of [CKB Bitcoin SPV].
 All data in this repository are collected from the Internet,
 and they are under the [WTFPL License].
 
-[CKB Bitcoin SPV]: https://github.com/yangby-cryptape/ckb-bitcoin-spv
+[CKB Bitcoin SPV]: https://github.com/ckb-cell/ckb-bitcoin-spv
 [WTFPL License]: http://www.wtfpl.net/about/
