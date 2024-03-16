@@ -1,4 +1,4 @@
-### Continuous Headers Test Cases
+### Continuous Headers
 
 The headers, which in the current directory, are used for testing the bitcoin continuous headers.
 
