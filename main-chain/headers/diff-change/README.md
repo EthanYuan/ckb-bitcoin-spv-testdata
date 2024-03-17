@@ -1,4 +1,4 @@
-### Difficulty-Change Headers Test Cases
+### Difficulty-Change Headers
 
 The headers, which in the current directory, are used for testing the bitcoin difficulty change.
 

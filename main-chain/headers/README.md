@@ -1,5 +1,7 @@
 ### Bitcoin Main Chain Headers
 
-- [Continuous Headers Test Cases](continuous)
+- [Continuous Headers](continuous)
 
-- [Difficulty-Change Headers Test Cases](diff-change)
+- [Stale Headers](stale)
+
+- [Difficulty-Change Headers](diff-change)
